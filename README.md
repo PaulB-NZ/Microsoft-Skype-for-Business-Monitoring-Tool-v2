@@ -1,6 +1,3 @@
-﻿Skype for Business Monitoring V2.2
-==================================
-
 V2.2 brings many hours of tweaking and polishing. The end result is a more stable, user friendly application that can be deployed in under 10 minutes. That's including watching my how to video!
 
 #Why is it useful?
